@@ -1,7 +1,7 @@
 title: Streamlit Plus S3
 description: How to create interactive data apps with Streamlit and S3
 steps:
-  - course: https://github.com/free2fork/streamlit-plus-s3-path/
+  - course: https://lab.github.com/free2fork/streamlit-plus-s3
     description: Setup AWS Account, CLI and storage bucket
   - link: 'https://lab.github.com'
     title: Creating our app
