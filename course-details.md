@@ -1,9 +1,8 @@
-This is the description we show on the course page [here](https://lab.github.com/free2fork/streamlit-plus-s3). This first paragraph will be featured at the top of the page so make it great.
+Welcome to our course! [here](https://lab.github.com/free2fork/streamlit-plus-s3). I hope you all enjoy it.
 ​
 
-​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
+If you want to explore and learn more about how to explore Streamlit​ with S3, joins us!
+You'll need: a AWS account with a bucket, Streamlit and Python 3+.
 ​
 
-
-Include information on how they can reach you for questions about the content or course. 
+Please rech me at ff@free2forkdev
